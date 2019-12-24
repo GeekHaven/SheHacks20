@@ -4104,3 +4104,11 @@
 .dark-background {
 	background-image: linear-gradient(to bottom right, #212121 0%, black 100%);
 }
+.codeConduct{
+	color: #333333;
+	font-weight: 600;
+}
+.codeof{
+	font-size: 16px;
+	font-weight: 600;
+}
