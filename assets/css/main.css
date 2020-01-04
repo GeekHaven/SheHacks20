@@ -3982,7 +3982,7 @@
     padding: 1rem;
     margin: 0 auto;
 	max-width: 1300px;
-	background-color: #fafafa;
+	/* background-color: #fafafa; */
 			color: #999999;
 }
 
@@ -4110,6 +4110,13 @@
 	font-weight: 600;
 }
 .codeof{
+	letter-spacing: 2px;
+	color: white;
 	font-size: 16px;
 	font-weight: 600;
+}
+.codeof1{
+	letter-spacing: 2px;
+	color: white;
+	font-size: 16px;
 }
