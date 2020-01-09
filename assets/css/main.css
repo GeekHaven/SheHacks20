@@ -2506,11 +2506,11 @@
 			}
 
 		.image.round {
-			border-radius: 100%;
+			border-radius: 50%;
 		}
 
 			.image.round img {
-				border-radius: 100%;
+				border-radius: 50%;
 			}
 
 		.image.main {
