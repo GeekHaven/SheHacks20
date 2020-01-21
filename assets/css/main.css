@@ -4120,3 +4120,12 @@
 	color: white;
 	font-size: 16px;
 }
+
+.col-lg-6{
+	width: 50%;
+	margin-top: 8%;
+}
+.col-lg-4{
+	width: 33%;
+	margin-top: 8%;
+}
